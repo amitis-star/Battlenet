@@ -52,12 +52,12 @@
   padding: 12px;
 }
 
-.col-11 .dropdown a,
-.col-11 .dropdown li:nth-of-type(1) {
+.col-12 .dropdown a,
+.col-12 .dropdown li:nth-of-type(1) {
   padding: 16px 12px;
 }
 
-.col-11 .dropdown-item:hover {
+.col-12 .dropdown-item:hover {
   background-color: rgba(128, 128, 128, 0.475) !important;
   border-radius: 8px;
   color: white !important;
@@ -153,9 +153,6 @@ input {
   }
 }
 
-.w-275{
-  width: 205px;
-}
 
 .p-all {
   padding: 10px 20px 10px 20px;
@@ -188,3 +185,8 @@ input {
   font-weight: 700;
   cursor: pointer;
 }
+
+.w-300{
+  width: 320px;
+}
+
