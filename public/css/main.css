@@ -1,0 +1,158 @@
+@import url(./media.css);
+
+.bg-battlenet {
+  background-color: #15171e;
+}
+
+.bg-menuitem-last {
+  background-color: #2b2b2b !important;
+  border-radius: unset !important;
+}
+
+.w-200 {
+  width: 200px;
+}
+.w-264 {
+  width: 280px;
+}
+
+.fs-16 {
+  font-size: 16px;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.p-16 {
+  padding: 0px 16px;
+}
+
+.h-72 {
+  height: 72px;
+}
+
+.h-56 {
+  height: 56px;
+}
+
+.list-unstyled li {
+  height: 80%;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.3s ease;
+  border-radius: 8px;
+}
+
+.list-unstyled li:hover {
+  background-color: #313236da;
+}
+
+.p-12 {
+  padding: 12px;
+}
+
+.col-11 .dropdown a,
+.col-11 .dropdown li:nth-of-type(1) {
+  padding: 16px 12px;
+}
+
+.col-11 .dropdown-item:hover {
+  background-color: rgba(128, 128, 128, 0.475) !important;
+  border-radius: 8px;
+  color: white !important;
+  transition: 300ms;
+}
+
+.dropdown .left-p1:hover {
+  background-color: #303237;
+  color: white !important;
+  overflow: hidden !important;
+}
+
+.parent-left-p2:hover {
+  background-color: #303237 !important;
+  & input::placeholder {
+    color: white !important;
+  }
+}
+
+.parent-left-p3:hover {
+  background-color: #303237 !important;
+  height: 56px !important;
+  line-height: 56px;
+  transition: 300ms;
+  .left-p3:hover {
+    color: white !important;
+  }
+}
+
+.col-11 .dropdown-menu {
+  width: 320px !important;
+  transform: translate(-40px, 70px) !important;
+  box-shadow: unset !important;
+}
+
+.dropdown-item span {
+  font-size: 14px !important;
+}
+
+.dropdown .dropSub:nth-of-type(2) li a {
+  padding: 0px 12px !important;
+  height: 48px !important;
+  display: block !important;
+  line-height: 48px !important;
+}
+
+input {
+  outline: unset;
+  font-size: 16px !important;
+  color: white;
+}
+
+.p-all {
+  padding: 16px 40px 16px 20px;
+}
+
+.line-56 {
+  line-height: 56px;
+}
+
+.w-62 {
+  width: 63%;
+}
+.w-345{
+  width: 345px;
+}
+
+.w-180{
+  width: 180px;
+}
+.fw-700 {
+  font-weight: 700;
+}
+
+.fw-900 {
+  font-weight: 900;
+}
+
+.c-lgray {
+  color: lightgray;
+}
+
+.fs-24 {
+  font-size: 18px;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.dropdown-menu .warcraft-item:hover {
+  background-color: #303237 !important;
+  border-radius: 4px;
+  & span .c-lgray{
+    color: white !important;
+  }
+}
+
