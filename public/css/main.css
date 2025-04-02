@@ -110,9 +110,6 @@ input {
   color: white;
 }
 
-.p-all {
-  padding: 16px 40px 16px 20px;
-}
 
 .line-56 {
   line-height: 56px;
@@ -156,3 +153,38 @@ input {
   }
 }
 
+.w-275{
+  width: 205px;
+}
+
+.p-all {
+  padding: 10px 20px 10px 20px;
+}
+
+.h-36{
+  height: 36px;
+}
+
+.lh-36{
+  line-height: 36px;
+}
+.search-input:focus {
+  outline: none !important; 
+  box-shadow: none !important; 
+  border: none !important; 
+}
+
+.search-input::placeholder {
+  color: #d3d3d3; 
+}
+
+.search-input {
+  color: white !important; 
+}
+
+.clear-btn {
+  color: white !important; 
+  font-size: 25px; 
+  font-weight: 700;
+  cursor: pointer;
+}
