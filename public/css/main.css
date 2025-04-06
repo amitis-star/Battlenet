@@ -80,7 +80,6 @@
 .parent-left-p3:hover {
   background-color: #303237 !important;
   height: 56px !important;
-  line-height: 56px;
   transition: 300ms;
   .left-p3:hover {
     color: white !important;
@@ -225,4 +224,25 @@ input {
 
 .pb-16{
   padding-bottom: 16px;
+}
+
+.h-25{
+  height: 25px !important;
+}
+
+.w-25{
+  width: 25px !important;
+}
+
+.ml-10{
+  margin-left: 10px;
+}
+
+.w-230{
+  width: 230px;
+}
+
+.wh-6{
+  width: 16px;
+  height: 16px;
 }
