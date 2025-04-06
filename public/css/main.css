@@ -190,3 +190,49 @@ input {
   width: 320px;
 }
 
+.p-16-12{
+  padding: 0px 12px;
+}
+
+.w-528{
+  width: 528px;
+}
+
+.flex{
+  display: flex;
+}
+
+.grid-t-c-2{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.w-251{
+  width: 251px;
+}
+
+.w-35{
+  width: 35px !important;
+}
+
+.h-35{
+  height: 35px !important;
+}
+
+/* img {
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.fallback-icon {
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: whitesmoke;
+  border-radius: 8px;
+  overflow: hidden;
+} */
