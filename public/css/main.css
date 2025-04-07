@@ -246,3 +246,61 @@ input {
   width: 16px;
   height: 16px;
 }
+
+.h-394{
+  height: 394px;
+}
+
+
+.h-80{
+  height: 80px;
+}
+
+.w-40{
+  width: 40px;
+}
+
+.h-48{
+height: 48px;
+
+}
+
+.w-288{
+  width: 288px;
+}
+
+.h-90{
+  height: 90px;
+}
+
+.px-40{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.h-360{
+  height: 360px;
+}
+
+.w-320{
+  width: 320px;
+}
+
+.h-54{
+  height: 54px;
+}
+
+
+.w-241{
+  width: 241px;
+}
+
+.h-150{
+  height: 150px;
+}
+
+.py-64{
+  padding-top: 64px;
+  padding-bottom: 64px;
+
+}
