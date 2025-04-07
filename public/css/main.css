@@ -136,7 +136,7 @@ input {
   color: lightgray;
 }
 
-.fs-24 {
+.fs-18 {
   font-size: 18px;
 }
 
@@ -303,4 +303,30 @@ height: 48px;
   padding-top: 64px;
   padding-bottom: 64px;
 
+}
+
+.fs-12{
+  font-size: 12px;
+}
+
+.w-24{
+  width: 24px;
+}
+
+.h-24{
+  height: 24px;
+}
+
+.lh-24{
+  line-height: 24px;
+}
+
+
+.h-267{
+  height: 267px;
+}
+
+
+.h-161-41{
+  height: 161.41px;
 }
