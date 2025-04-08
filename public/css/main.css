@@ -330,3 +330,19 @@ height: 48px;
 .h-161-41{
   height: 161.41px;
 }
+
+.card-body {
+  transition: background-color 0.3s ease-in-out;
+}
+
+.card-body > * {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card-body:hover {
+  background-color: #2c2c2c; /* یا هر رنگ روشن‌تری از رنگ فعلی */
+}
+
+.card-body:hover > * {
+  transform: translateY(-5px);
+}
